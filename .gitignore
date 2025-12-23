@@ -1,0 +1,48 @@
+# =====================
+# ENV FILES (VERY IMPORTANT)
+# =====================
+.env
+*.env
+example.env
+
+# =====================
+# PYTHON (FastAPI backend)
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env/
+
+# =====================
+# NODE / FRONTEND (Vite + React)
+# =====================
+node_modules/
+dist/
+build/
+.vite/
+
+# =====================
+# LOGS
+# =====================
+*.log
+
+# =====================
+# OS FILES
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# IDE / EDITOR
+# =====================
+.vscode/
+.idea/
+
+# =====================
+# MISC
+# =====================
+coverage/
